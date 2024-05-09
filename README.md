@@ -1,4 +1,4 @@
-# TI-RSLK-Robotic-Car-Path-Follower
+# Texas Instruments Vehicle Routing Script
 
 The code and report are written by David Bughman and Jordan Lin
 
